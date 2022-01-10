@@ -1,0 +1,1427 @@
+This is LuaTeX, Version 1.10.0 (MiKTeX 2.9.7140 64-bit)  (format=lualatex 2019.9.18)  16 OCT 2019 20:58
+ restricted system commands enabled.
+**kursinis.tex
+(./kursinis.tex
+LaTeX2e <2018-12-01>
+Lua module: luaotfload-main 2019-08-11 2.991 luaotfload entry point
+Lua module: luaotfload-init 2019-08-11 2.991 luaotfload submodule / initializati
+on
+Lua module: lualibs 2019-08-11 2.67 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2019-08-11 2.67 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2019-08-11 2.991 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2019-08-11 2.991 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2019-08-11 2.991 luaotfload submodule / con
+fig file reader
+luaotfload | conf : Root cache directory is C:/Users/Max/AppData/Local/MiKTeX/2.
+9/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2019-08-11.lua” from kpse
+-resolved path “C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/luao
+tfload/fontloader-2019-08-11.lua”.
+Lua-only attribute luaotfload@state = 2
+Lua-only attribute luaotfload@noligature = 3
+Lua-only attribute luaotfload@syllabe = 4
+luaotfload | init : Context OpenType loader version “3.109”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2019-08-11 2.991 luaotfload submodule / callback 
+handling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2019-08-11 2.991 luaotfload submodule / database
+Lua module: luaotfload-unicode 2019-08-11 2.991 luaotfload submodule / Unicode h
+elpers
+Lua module: luaotfload-colors 2019-08-11 2.991 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 5
+Lua module: luaotfload-resolvers 2019-08-11 2.991 luaotfload submodule / resolve
+rs
+luaotfload | conf : Root cache directory is C:/Users/Max/AppData/Local/MiKTeX/2.
+9/luatex-cache/generic/names.
+Lua module: luaotfload-features 2019-08-11 2.991 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2019-08-11 2.991 luaotfload submodule / color
+Lua module: luaotfload-embolden 2019-08-11 2.991 luaotfload submodule / color
+Lua module: luaotfload-notdef 2019-08-11 2.991 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2019-08-11 2.991 luaotfload submodule / auxilia
+ry functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 4 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 5 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 1.140 seconds
+(./VUMIFInfKursinis.cls
+Document Class: VUMIFInfKursinis 2015/02/03 1.0 VU MIF CS1 course work class
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/Max/AppData/Local/MiK
+TeX/2.9/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./LTPlius.sty
+Package: LTPlius 2014/12/24 1.4.0 Lithuanian language additions
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polyglossia/polyglos
+sia.sty"
+Package: polyglossia 2019/04/04 v1.44 Alternative to Babel for XeLaTeX and LuaLa
+TeX
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/etoolbox/etoolbox.st
+y"
+Package: etoolbox 2019/09/09 v2.5g e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count88
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/makecmds/makecmds.st
+y"
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xkeyval/xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/xkeyval/xkeyval.te
+x"
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/xkeyval/xkvutils.t
+ex"
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/xkeyval/keyval.tex
+"))
+\XKV@depth=\count89
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fontspec.st
+y"
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3packages/xparse/xp
+arse.sty"
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty"
+Package: expl3 2019-09-08 L3 programming layer (loader) 
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3-code.
+tex"
+Package: expl3 2019-09-08 L3 programming layer (code)
+\ucharcat@table=\catcodetable5
+\c_max_int=\count90
+\l_tmpa_int=\count91
+\l_tmpb_int=\count92
+\g_tmpa_int=\count93
+\g_tmpb_int=\count94
+\g__kernel_prg_map_int=\count95
+\c__ior_term_noprompt_ior=\count96
+\c_log_iow=\count97
+\l_iow_line_count_int=\count98
+\l__iow_line_target_int=\count99
+\l__iow_one_indent_int=\count100
+\l__iow_indent_int=\count101
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count102
+\l__intarray_loop_int=\count103
+\c__intarray_sp_dim=\dimen109
+\g__intarray_font_int=\count104
+\c__fp_leading_shift_int=\count105
+\c__fp_middle_shift_int=\count106
+\c__fp_trailing_shift_int=\count107
+\c__fp_big_leading_shift_int=\count108
+\c__fp_big_middle_shift_int=\count109
+\c__fp_big_trailing_shift_int=\count110
+\c__fp_Bigg_leading_shift_int=\count111
+\c__fp_Bigg_middle_shift_int=\count112
+\c__fp_Bigg_trailing_shift_int=\count113
+\g__fp_array_int=\count114
+\l__fp_array_loop_int=\count115
+\l__sort_length_int=\count116
+\l__sort_min_int=\count117
+\l__sort_top_int=\count118
+\l__sort_max_int=\count119
+\l__sort_true_max_int=\count120
+\l__sort_block_int=\count121
+\l__sort_begin_int=\count122
+\l__sort_end_int=\count123
+\l__sort_A_int=\count124
+\l__sort_B_int=\count125
+\l__sort_C_int=\count126
+\l__str_internal_int=\count127
+\l__tl_analysis_normal_int=\count128
+\l__tl_analysis_index_int=\count129
+\l__tl_analysis_nesting_int=\count130
+\l__tl_analysis_type_int=\count131
+\l__regex_internal_a_int=\count132
+\l__regex_internal_b_int=\count133
+\l__regex_internal_c_int=\count134
+\l__regex_balance_int=\count135
+\l__regex_group_level_int=\count136
+\l__regex_mode_int=\count137
+\c__regex_cs_in_class_mode_int=\count138
+\c__regex_cs_mode_int=\count139
+\l__regex_catcodes_int=\count140
+\l__regex_default_catcodes_int=\count141
+\c__regex_catcode_L_int=\count142
+\c__regex_catcode_O_int=\count143
+\c__regex_catcode_A_int=\count144
+\c__regex_all_catcodes_int=\count145
+\l__regex_show_lines_int=\count146
+\l__regex_min_state_int=\count147
+\l__regex_max_state_int=\count148
+\l__regex_left_state_int=\count149
+\l__regex_right_state_int=\count150
+\l__regex_capturing_group_int=\count151
+\l__regex_min_pos_int=\count152
+\l__regex_max_pos_int=\count153
+\l__regex_curr_pos_int=\count154
+\l__regex_start_pos_int=\count155
+\l__regex_success_pos_int=\count156
+\l__regex_curr_char_int=\count157
+\l__regex_curr_catcode_int=\count158
+\l__regex_last_char_int=\count159
+\l__regex_case_changed_char_int=\count160
+\l__regex_curr_state_int=\count161
+\l__regex_step_int=\count162
+\l__regex_min_active_int=\count163
+\l__regex_max_active_int=\count164
+\l__regex_replacement_csnames_int=\count165
+\l__regex_match_count_int=\count166
+\l__regex_min_submatch_int=\count167
+\l__regex_submatch_int=\count168
+\l__regex_zeroth_submatch_int=\count169
+\g__regex_trace_regex_int=\count170
+\c_empty_box=\box27
+\l_tmpa_box=\box28
+\l_tmpb_box=\box29
+\g_tmpa_box=\box30
+\g_tmpb_box=\box31
+\l__box_top_dim=\dimen110
+\l__box_bottom_dim=\dimen111
+\l__box_left_dim=\dimen112
+\l__box_right_dim=\dimen113
+\l__box_top_new_dim=\dimen114
+\l__box_bottom_new_dim=\dimen115
+\l__box_left_new_dim=\dimen116
+\l__box_right_new_dim=\dimen117
+\l__box_internal_box=\box32
+\l__coffin_internal_box=\box33
+\l__coffin_internal_dim=\dimen118
+\l__coffin_offset_x_dim=\dimen119
+\l__coffin_offset_y_dim=\dimen120
+\l__coffin_x_dim=\dimen121
+\l__coffin_y_dim=\dimen122
+\l__coffin_x_prime_dim=\dimen123
+\l__coffin_y_prime_dim=\dimen124
+\c_empty_coffin=\box34
+\l__coffin_aligned_coffin=\box35
+\l__coffin_aligned_internal_coffin=\box36
+\l_tmpa_coffin=\box37
+\l_tmpb_coffin=\box38
+\g_tmpa_coffin=\box39
+\g_tmpb_coffin=\box40
+\l__coffin_bounding_shift_dim=\dimen125
+\l__coffin_left_corner_dim=\dimen126
+\l__coffin_right_corner_dim=\dimen127
+\l__coffin_bottom_corner_dim=\dimen128
+\l__coffin_top_corner_dim=\dimen129
+\l__coffin_scaled_total_height_dim=\dimen130
+\l__coffin_scaled_width_dim=\dimen131
+\c__coffin_empty_coffin=\box41
+\l__coffin_display_coffin=\box42
+\l__coffin_display_coord_coffin=\box43
+\l__coffin_display_pole_coffin=\box44
+\l__coffin_display_offset_dim=\dimen132
+\l__coffin_display_x_dim=\dimen133
+\l__coffin_display_y_dim=\dimen134
+\g__char_data_ior=\read1
+\l__seq_internal_a_int=\count171
+\l__seq_internal_b_int=\count172
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3backend/l3backend-
+pdfmode.def"
+File: l3backend-pdfmode.def 2019-04-06 v L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count173
+\l__pdf_internal_box=\box45
+))
+Package: xparse 2019-05-28 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count174
+\g__xparse_grabber_int=\count175
+\l__xparse_m_args_int=\count176
+\l__xparse_v_nesting_int=\count177
+)
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2019/03/15 2.7c Font selection for XeLaTeX and LuaLaTeX
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fontspec-lu
+atex.sty"
+Package: fontspec-luatex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count178
+\l__fontspec_language_int=\count179
+\l__fontspec_strnum_int=\count180
+\l__fontspec_tmp_int=\count181
+\l__fontspec_tmpa_int=\count182
+\l__fontspec_tmpb_int=\count183
+\l__fontspec_tmpc_int=\count184
+\l__fontspec_em_int=\count185
+\l__fontspec_emdef_int=\count186
+\l__fontspec_strong_int=\count187
+\l__fontspec_strongdef_int=\count188
+\l__fontspec_tmpa_dim=\dimen135
+\l__fontspec_tmpb_dim=\dimen136
+\l__fontspec_tmpc_dim=\dimen137
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/tuenc.def"
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fontspec.cf
+g")
+LaTeX Info: Redefining \itshape on input line 3783.
+LaTeX Info: Redefining \slshape on input line 3788.
+LaTeX Info: Redefining \scshape on input line 3793.
+LaTeX Info: Redefining \upshape on input line 3798.
+LaTeX Info: Redefining \em on input line 3828.
+LaTeX Info: Redefining \emph on input line 3853.
+))
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifluatex.
+sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.st
+y"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/luatexbase/luatexba
+se.sty"
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/ctablestack/ctables
+tack.sty"
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count189
+)
+\CatcodeTableOther=\catcodetable6
+\CatcodeTableExpl=\catcodetable7
+)
+luatex-hyphen: using data file: C:/Users/Max/AppData/Roaming/MiKTeX/2.9/tex/gene
+ric/config/language.dat.lua
+Lua module: polyglossia 2013/05/11 1.3 Polyglossia)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polyglossia/gloss-li
+thuanian.ldf"
+File: gloss-lithuanian.ldf polyglossia: module for lithuanian
+Module polyglossia Info: Language data for lithuanian
+(polyglossia)            hyphenation	
+(polyglossia)            patterns	hyph-lt.pat.txt
+(polyglossia)            righthyphenmin	2
+(polyglossia)            synonyms	table: 000001E3974BFD60
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            loader	loadhyph-lt.tex
+(polyglossia)            patterns: hyph-lt.pat.txt on input line 8
+Module polyglossia Info: Language lithuanian was not yet loaded; created with id
+ 4 on input line 8
+Module polyglossia Info: Language lithuanian already loaded; id is 4 on input li
+ne 8
+Module polyglossia Info: Language lithuanian already loaded; id is 4 on input li
+ne 8
+)
+Package polyglossia Info: Default language is lithuanian.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/polyglossia/gloss-en
+glish.ldf"
+File: gloss-english.ldf polyglossia: module for english
+Module polyglossia Info: Language data for english
+(polyglossia)            hyphenation	
+(polyglossia)            patterns	
+(polyglossia)            righthyphenmin	3
+(polyglossia)            synonyms	table: 000001E3974BE560
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            loader	hyphen.tex
+(polyglossia)            patterns:  on input line 6
+Module polyglossia Info: Language english was not yet loaded; created with id 8 
+on input line 6
+Module polyglossia Info: Language english already loaded; id is 8 on input line 
+6
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/indentfirst.st
+y"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) ("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/was/icomma.sty"
+Package: icomma 2002/03/10 v2.0 (WaS)
+) ("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/caption/caption.st
+y"
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/caption/caption3.sty
+"
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen138
+\captionmargin@=\dimen139
+\captionwidth=\dimen140
+\caption@tempdima=\dimen141
+\caption@indent=\dimen142
+\caption@parindent=\dimen143
+\caption@hangindent=\dimen144
+)
+\c@caption@flags=\count190
+\c@ContinuedFloat=\count191
+))
+
+Package fontspec Info: Font family 'texgyretermes(0)' created for font
+(fontspec)             'texgyretermes' with options
+(fontspec)             [Ligatures=TeX,Ligatures=TeX,Extension=.otf,UprightFont=
+(fontspec)             *-regular,BoldFont=*-bold,ItalicFont=*-italic,BoldItalicF
+ont=*-bolditalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-regular.otf]:mode=node;script=latn;lan
+guage=DFLT;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-regular.otf]:mode=node;script=latn;lan
+guage=DFLT;+tlig;+smcp;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-bold.otf]:mode=node;script=latn;langua
+ge=DFLT;+tlig;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-bold.otf]:mode=node;script=latn;langua
+ge=DFLT;+tlig;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-italic.otf]:mode=node;script=latn;lang
+uage=DFLT;+tlig;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-italic.otf]:mode=node;script=latn;lang
+uage=DFLT;+tlig;+smcp;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-bolditalic.otf]:mode=node;script=latn;
+language=DFLT;+tlig;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->"[texgyretermes-bolditalic.otf]:mode=node;script=latn;
+language=DFLT;+tlig;+smcp;"
+
+LaTeX Info: Redefining \rmfamily on input line 30.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/setspace/setspace.st
+y"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.st
+y"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
+"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.st
+y"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
+\Gm@dimlist=\toks16
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.cf
+g"))
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tocloft/tocloft.sty"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip49
+\cftbeforetoctitleskip=\skip50
+\cftaftertoctitleskip=\skip51
+\cftbeforepartskip=\skip52
+\cftpartnumwidth=\skip53
+\cftpartindent=\skip54
+\cftbeforesecskip=\skip55
+\cftsecindent=\skip56
+\cftsecnumwidth=\skip57
+\cftbeforesubsecskip=\skip58
+\cftsubsecindent=\skip59
+\cftsubsecnumwidth=\skip60
+\cftbeforesubsubsecskip=\skip61
+\cftsubsubsecindent=\skip62
+\cftsubsubsecnumwidth=\skip63
+\cftbeforeparaskip=\skip64
+\cftparaindent=\skip65
+\cftparanumwidth=\skip66
+\cftbeforesubparaskip=\skip67
+\cftsubparaindent=\skip68
+\cftsubparanumwidth=\skip69
+\cftbeforeloftitleskip=\skip70
+\cftafterloftitleskip=\skip71
+\cftbeforefigskip=\skip72
+\cftfigindent=\skip73
+\cftfignumwidth=\skip74
+\c@lofdepth=\count195
+\c@lotdepth=\count196
+\cftbeforelottitleskip=\skip75
+\cftafterlottitleskip=\skip76
+\cftbeforetabskip=\skip77
+\cfttabindent=\skip78
+\cfttabnumwidth=\skip79
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fancyhdr/fancyhdr.st
+y"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip80
+\f@nch@O@elh=\skip81
+\f@nch@O@erh=\skip82
+\f@nch@O@olh=\skip83
+\f@nch@O@orh=\skip84
+\f@nch@O@elf=\skip85
+\f@nch@O@erf=\skip86
+\f@nch@O@olf=\skip87
+\f@nch@O@orf=\skip88
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/silence/silence.sty"
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mess
+ages
+\sl@Save=\count197
+\sl@StateNumber=\count198
+\sl@MessageCount=\count199
+\sl@Casualties=\count266
+\sl@Filter=\toks17
+\sl@Message=\toks18
+\sl@UnexpandedMessage=\toks19
+\sl@Mess@ge=\toks20
+\sl@WarningCount=\count267
+\sl@WarningNumber=\count268
+\sl@WarningCasualties=\count269
+\sl@TempBOW=\toks21
+\sl@BankOfWarnings=\toks22
+LaTeX Info: Redefining \GenericWarning on input line 433.
+\sl@ErrorCount=\count270
+\sl@ErrorNumber=\count271
+\sl@ErrorCasualties=\count272
+\sl@TempBOE=\toks23
+\sl@BankOfErrors=\toks24
+LaTeX Info: Redefining \GenericError on input line 601.
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/biblatex.st
+y"
+Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/pdftexcmd
+s.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/infwarerr
+.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ltxcmds.s
+ty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks25
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.s
+ty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvsetkeys
+.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/etexcmds.
+sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+)))
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/logreq/logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count273
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/logreq/logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) ("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/url/url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count274
+\c@listtotal=\count275
+\c@listcount=\count276
+\c@liststart=\count277
+\c@liststop=\count278
+\c@citecount=\count279
+\c@citetotal=\count280
+\c@multicitecount=\count281
+\c@multicitetotal=\count282
+\c@instcount=\count283
+\c@maxnames=\count284
+\c@minnames=\count285
+\c@maxitems=\count286
+\c@minitems=\count287
+\c@citecounter=\count288
+\c@maxcitecounter=\count289
+\c@savedcitecounter=\count290
+\c@uniquelist=\count291
+\c@uniquename=\count292
+\c@refsection=\count293
+\c@refsegment=\count294
+\c@maxextratitle=\count295
+\c@maxextratitleyear=\count296
+\c@maxextraname=\count297
+\c@maxextradate=\count298
+\c@maxextraalpha=\count299
+\c@abbrvpenalty=\count300
+\c@highnamepenalty=\count301
+\c@lownamepenalty=\count302
+\c@maxparens=\count303
+\c@parenlevel=\count304
+\blx@tempcnta=\count305
+\blx@tempcntb=\count306
+\blx@tempcntc=\count307
+\blx@maxsection=\count308
+\blx@maxsegment@0=\count309
+\blx@notetype=\count310
+\blx@parenlevel@text=\count311
+\blx@parenlevel@foot=\count312
+\blx@sectionciteorder@0=\count313
+\blx@entrysetcounter=\count314
+\labelnumberwidth=\skip89
+\labelalphawidth=\skip90
+\biblabelsep=\skip91
+\bibitemsep=\skip92
+\bibnamesep=\skip93
+\bibinitsep=\skip94
+\bibparsep=\skip95
+\bibhang=\skip96
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language2
+\c@mincomprange=\count315
+\c@maxcomprange=\count316
+\c@mincompwidth=\count317
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/blx-dm.def"
+File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'trad-alpha.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count318
+\c@savedafterword=\count319
+\c@annotator=\count320
+\c@savedannotator=\count321
+\c@author=\count322
+\c@savedauthor=\count323
+\c@bookauthor=\count324
+\c@savedbookauthor=\count325
+\c@commentator=\count326
+\c@savedcommentator=\count327
+\c@editor=\count328
+\c@savededitor=\count329
+\c@editora=\count330
+\c@savededitora=\count331
+\c@editorb=\count332
+\c@savededitorb=\count333
+\c@editorc=\count334
+\c@savededitorc=\count335
+\c@foreword=\count336
+\c@savedforeword=\count337
+\c@holder=\count338
+\c@savedholder=\count339
+\c@introduction=\count340
+\c@savedintroduction=\count341
+\c@namea=\count342
+\c@savednamea=\count343
+\c@nameb=\count344
+\c@savednameb=\count345
+\c@namec=\count346
+\c@savednamec=\count347
+\c@translator=\count348
+\c@savedtranslator=\count349
+\c@shortauthor=\count350
+\c@savedshortauthor=\count351
+\c@shorteditor=\count352
+\c@savedshorteditor=\count353
+\c@labelname=\count354
+\c@savedlabelname=\count355
+\c@institution=\count356
+\c@savedinstitution=\count357
+\c@lista=\count358
+\c@savedlista=\count359
+\c@listb=\count360
+\c@savedlistb=\count361
+\c@listc=\count362
+\c@savedlistc=\count363
+\c@listd=\count364
+\c@savedlistd=\count365
+\c@liste=\count366
+\c@savedliste=\count367
+\c@listf=\count368
+\c@savedlistf=\count369
+\c@location=\count370
+\c@savedlocation=\count371
+\c@organization=\count372
+\c@savedorganization=\count373
+\c@origlocation=\count374
+\c@savedoriglocation=\count375
+\c@origpublisher=\count376
+\c@savedorigpublisher=\count377
+\c@publisher=\count378
+\c@savedpublisher=\count379
+\c@language=\count380
+\c@savedlanguage=\count381
+\c@origlanguage=\count382
+\c@savedoriglanguage=\count383
+\c@pageref=\count384
+\c@savedpageref=\count385
+\shorthandwidth=\skip97
+\shortjournalwidth=\skip98
+\shortserieswidth=\skip99
+\shorttitlewidth=\skip100
+\shortauthorwidth=\skip101
+\shorteditorwidth=\skip102
+\locallabelnumberwidth=\skip103
+\locallabelalphawidth=\skip104
+\localshorthandwidth=\skip105
+\localshortjournalwidth=\skip106
+\localshortserieswidth=\skip107
+\localshorttitlewidth=\skip108
+\localshortauthorwidth=\skip109
+\localshorteditorwidth=\skip110
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/blx-unicode
+.def")
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/blx-compat.
+def"
+File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/biblatex.de
+f"
+File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+\c@textcitecount=\count386
+\c@textcitetotal=\count387
+\c@textcitemaxnames=\count388
+\c@biburlbigbreakpenalty=\count389
+\c@biburlbreakpenalty=\count390
+\c@biburlnumpenalty=\count391
+\c@biburlucpenalty=\count392
+\c@biburllcpenalty=\count393
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count394
+)
+Package biblatex Info: Trying to load bibliography style 'trad-alpha'...
+Package biblatex Info: ... file 'trad-alpha.bbx' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex-trad/trad-a
+lpha.bbx"
+File: trad-alpha.bbx 2018/02/17 v0.4a biblatex-trad alpha bibliograhy style
+Package biblatex Info: Trying to load bibliography style 'trad-standard'...
+Package biblatex Info: ... file 'trad-standard.bbx' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex-trad/trad-s
+tandard.bbx"
+File: trad-standard.bbx 2018/02/17 v0.4a biblatex-trad base bibliography style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/bbx/standar
+d.bbx"
+File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count395
+\c@bbx:relatedtotal=\count396
+)))
+Package biblatex Info: Trying to load citation style 'trad-alpha'...
+Package biblatex Info: ... file 'trad-alpha.cbx' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex-trad/trad-a
+lpha.cbx"
+File: trad-alpha.cbx 2018/02/17 v0.4a biblatex-trad alpha citation style
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/cbx/alphabe
+tic.cbx"
+File: alphabetic.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/biblatex.cf
+g"
+File: biblatex.cfg 
+)
+
+Package biblatex Warning: 'iso8601' date format specifier is deprecated.
+(biblatex)                Use 'iso' instead.
+
+
+Package biblatex Warning: 'iso8601' date format specifier is deprecated.
+(biblatex)                Use 'iso' instead.
+
+
+Package biblatex Warning: 'iso8601' date format specifier is deprecated.
+(biblatex)                Use 'iso' instead.
+
+
+Package biblatex Warning: 'iso8601' date format specifier is deprecated.
+(biblatex)                Use 'iso' instead.
+
+
+Package biblatex Warning: 'iso8601' date format specifier is deprecated.
+(biblatex)                Use 'iso' instead.
+
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/csquotes/csquotes.st
+y"
+Package: csquotes 2019/05/10 v5.2e context-sensitive quotations (JAW)
+\csq@reset=\count397
+\csq@gtype=\count398
+\csq@glevel=\count399
+\csq@qlevel=\count400
+\csq@maxlvl=\count401
+\csq@tshold=\count402
+\csq@ltx@everypar=\toks26
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/csquotes/csquotes.de
+f"
+File: csquotes.def 2019/05/10 v5.2e csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (./csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Disabling multilingual quotes.
+Package csquotes Info: Redefining alias 'default' -> 'lithuanian'.
+))
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/algorithmicx/algorit
+hmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count403
+\c@ALG@rem=\count404
+\c@ALG@nested=\count405
+\ALG@tlm=\skip111
+\ALG@thistlm=\skip112
+\c@ALG@Lnr=\count406
+\c@ALG@blocknr=\count407
+\c@ALG@storecount=\count408
+\c@ALG@tmpcounter=\count409
+\ALG@tmplength=\skip113
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/algorithms/algorithm
+.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environ
+ment
+ ("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/float/float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count410
+\float@exts=\toks27
+\float@box=\box46
+\@float@everytoks=\toks28
+\@floatcapt=\box47
+)
+\@float@every@algorithm=\toks29
+\c@algorithm=\count411
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/algorithmicx/algpseu
+docode.sty"
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/amsfonts.st
+y"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks30
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip114
+For additional information on amsmath, use the `?' option.
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen153
+)) ("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen154
+) ("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count412
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count413
+\leftroot@=\count414
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count415
+\DOTSCASE@=\count416
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen155
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count417
+\c@MaxMatrixCols=\count418
+\dotsspace@=\muskip21
+\c@parentequation=\count419
+\dspbrk@lvl=\count420
+\tag@help=\toks32
+\row@=\count421
+\column@=\count422
+\maxfields@=\count423
+\andhelp@=\toks33
+\eqnshift@=\dimen156
+\alignsep@=\dimen157
+\tagshift@=\dimen158
+\tagwidth@=\dimen159
+\totwidth@=\dimen160
+\lineht@=\dimen161
+\@envbody=\toks34
+\multlinegap=\skip115
+\multlinetaggap=\skip116
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) ("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/color.c
+fg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 147.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/luatex.
+def"
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+))
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx.st
+y"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphics.st
+y"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ ("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/graphic
+s.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 99.
+)
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/enumitem/enumitem.st
+y"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks36
+\labelindent=\skip117
+\enit@outerparindent=\dimen164
+\enit@toks=\toks37
+\enit@inbox=\box50
+\enit@count@id=\count424
+\enitdp@description=\count425
+)
+
+Package biblatex Warning: Package 'polyglossia' detected.
+(biblatex)                Please note that biblatex's polyglossia
+(biblatex)                interface has some rough edges.
+(biblatex)                Language variants are not picked up correctly.
+(biblatex)                You can disable this warning by defining the macro
+(biblatex)                '\blx@nowarnpolyglossia' in the preamble.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/lbx/english
+.lbx"
+File: english.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'lithuanian'...
+Package biblatex Info: ... file 'lithuanian.lbx' found.
+ (./lithuanian.lbx
+File: lithuanian.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)$Id: lithuan
+ian.lbx,v 1.0 2015/02/05 20:21:28 niekas stable $
+)
+
+Package biblatex Warning: Conflicting options.
+(biblatex)                'date=iso' requires 'seconds=true'.
+(biblatex)                Setting 'seconds=true' on input line 37.
+
+(./kursinis.aux
+luatex-hyphen: loading patterns and exceptions for: lithuanian (\language4)
+luatex-hyphen: info: no hyphenation exceptions for this language
+Module polyglossia Info: Language lithuanian already loaded; id is 4 on input li
+ne 6
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+
+LaTeX Warning: Label `img:mlp' multiply defined.
+
+)
+\openout1 = kursinis.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 37.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 37.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 37.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 37.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 37.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 37.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 37.
+LaTeX Font Info:    Redeclaring math accent \check on input line 37.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 37.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 37.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 37.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 37.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 37.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/texgyretermes(0)/m/n on input line 37
+.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 37.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/texgyretermes(0)/m/n on input line 3
+7.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/texgyretermes(0)/m/n --> TU/texgyretermes(0)/m/n on i
+nput line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/texgyretermes(0)/m/it on input line 
+37.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/texgyretermes(0)/bx/n on input line 
+37.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 37.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/texgyretermes(0)/m/n --> TU/texgyretermes(0)/bx/n on 
+input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/texgyretermes(0)/bx/it on input lin
+e 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 37.
+Module polyglossia Info: Language lithuanian already loaded; id is 4 on input li
+ne 37
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-12.91173pt
+* \headheight=14.5pt
+* \headsep=14.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+
+\openout3 = kursinis.bcf
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'kursinis.bbl' not found.
+No file kursinis.bbl.
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/mkii/supp-pdf
+.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count426
+\scratchdimen=\dimen165
+\scratchbox=\box51
+\nofMPsegments=\count427
+\nofMParguments=\count428
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count429
+\MPscratchDim=\dimen166
+\MPnumerator=\count430
+\makeMPintoPDFobject=\count431
+\everyMPtoPDFconversion=\toks39
+)
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-ba
+se.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvdefinek
+eys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
+8.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
+,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+
+("C:/Users/Max/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+{C:/Users/Max/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [1
+
+]
+[2
+
+] (./kursinis.toc
+luatex-hyphen: loading patterns and exceptions for: lithuanian (\language4)
+luatex-hyphen: info: no hyphenation exceptions for this language
+Module polyglossia Info: Language lithuanian already loaded; id is 4 on input li
+ne 3
+)
+\tf@toc=\write4
+
+\openout4 = kursinis.toc
+ [3
+
+] [4
+
+]
+<img/uc.png, id=19, 403.5075pt x 292.09125pt>
+File: img/uc.png Graphic file (type png)
+<use img/uc.png>
+Package luatex.def Info: img/uc.png  used on input line 86.
+(luatex.def)             Requested size: 242.10637pt x 175.25609pt.
+<img/decProd.png, id=20, 574.145pt x 221.82875pt>
+File: img/decProd.png Graphic file (type png)
+<use img/decProd.png>
+Package luatex.def Info: img/decProd.png  used on input line 98.
+(luatex.def)             Requested size: 344.48965pt x 133.09825pt.
+<img/decPat.png, id=21, 403.5075pt x 171.64125pt>
+File: img/decPat.png Graphic file (type png)
+<use img/decPat.png>
+Package luatex.def Info: img/decPat.png  used on input line 107.
+(luatex.def)             Requested size: 242.10637pt x 102.98552pt.
+ [5
+
+<./img/uc.png><./img/decProd.png>]
+<img/decRest.png, id=27, 232.87pt x 171.64125pt>
+File: img/decRest.png Graphic file (type png)
+<use img/decRest.png>
+Package luatex.def Info: img/decRest.png  used on input line 116.
+(luatex.def)             Requested size: 139.72307pt x 102.98552pt.
+<img/seqProd.png, id=28, 402.50375pt x 191.71625pt>
+File: img/seqProd.png Graphic file (type png)
+<use img/seqProd.png>
+Package luatex.def Info: img/seqProd.png  used on input line 128.
+(luatex.def)             Requested size: 241.5041pt x 115.03062pt.
+<img/seqPat.png, id=29, 402.50375pt x 191.71625pt>
+File: img/seqPat.png Graphic file (type png)
+<use img/seqPat.png>
+Package luatex.def Info: img/seqPat.png  used on input line 139.
+(luatex.def)             Requested size: 241.5041pt x 115.03062pt.
+ [6<./img/decPat.png><./img/decRest.png><./img/seqProd.png>]
+<img/seqRest.png, id=36, 241.90375pt x 181.67876pt>
+File: img/seqRest.png Graphic file (type png)
+<use img/seqRest.png>
+Package luatex.def Info: img/seqRest.png  used on input line 152.
+(luatex.def)             Requested size: 145.14336pt x 109.00809pt.
+ [7<./img/seqPat.png><./img/seqRest.png>]
+<img/ClassD.png, id=42, 842.14626pt x 899.36pt>
+File: img/ClassD.png Graphic file (type png)
+<use img/ClassD.png>
+Package luatex.def Info: img/ClassD.png  used on input line 167.
+(luatex.def)             Requested size: 421.0721pt x 449.6789pt.
+ [8
+
+<./img/ClassD.png>]
+<img/dynamicDiagram.png, id=47, 807.015pt x 503.8825pt>
+File: img/dynamicDiagram.png Graphic file (type png)
+<use img/dynamicDiagram.png>
+Package luatex.def Info: img/dynamicDiagram.png  used on input line 183.
+(luatex.def)             Requested size: 403.50652pt x 251.94063pt.
+ [9
+
+<./img/dynamicDiagram.png>]
+<img/progKomp.png, id=52, 462.72874pt x 302.12875pt>
+File: img/progKomp.png Graphic file (type png)
+<use img/progKomp.png>
+Package luatex.def Info: img/progKomp.png  used on input line 196.
+(luatex.def)             Requested size: 277.63939pt x 181.27864pt.
+<img/DiagKompOne.png, id=53, 618.31pt x 517.935pt>
+File: img/DiagKompOne.png Graphic file (type png)
+<use img/DiagKompOne.png>
+Package luatex.def Info: img/DiagKompOne.png  used on input line 211.
+(luatex.def)             Requested size: 370.98886pt x 310.76338pt.
+ [10
+
+<./img/progKomp.png>] [11<./img/DiagKompOne.png>]
+<img/foodkomp.png, id=63, 577.15625pt x 362.35374pt>
+File: img/foodkomp.png Graphic file (type png)
+<use img/foodkomp.png>
+Package luatex.def Info: img/foodkomp.png  used on input line 222.
+(luatex.def)             Requested size: 346.29642pt x 217.41393pt.
+ [12
+
+<./img/foodkomp.png>]
+<img/startWindow.png, id=68, 785.93625pt x 577.40718pt>
+File: img/startWindow.png Graphic file (type png)
+<use img/startWindow.png>
+Package luatex.def Info: img/startWindow.png  used on input line 248.
+(luatex.def)             Requested size: 392.96716pt x 288.70288pt.
+<img/selectProducts.png, id=69, 785.93625pt x 578.16pt>
+File: img/selectProducts.png Graphic file (type png)
+<use img/selectProducts.png>
+Package luatex.def Info: img/selectProducts.png  used on input line 258.
+(luatex.def)             Requested size: 392.96716pt x 289.07928pt.
+ [13
+
+<./img/startWindow.png>]
+<img/recipes.png, id=74, 810.77907pt x 578.16pt>
+File: img/recipes.png Graphic file (type png)
+<use img/recipes.png>
+Package luatex.def Info: img/recipes.png  used on input line 268.
+(luatex.def)             Requested size: 405.38855pt x 289.07928pt.
+ [14<./img/selectProducts.png>]
+<img/restaurants.png, id=79, 810.77907pt x 432.11438pt>
+File: img/restaurants.png Graphic file (type png)
+<use img/restaurants.png>
+Package luatex.def Info: img/restaurants.png  used on input line 278.
+(luatex.def)             Requested size: 405.38855pt x 216.05666pt.
+ [15<./img/recipes.png><./img/restaurants.png>]
+
+LaTeX Warning: Empty bibliography on input line 303.
+
+[16
+
+] (./kursinis.aux
+Module polyglossia Info: Language lithuanian already loaded; id is 4 on input li
+ne 6
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package logreq Info: Writing requests to 'kursinis.run.xml'.
+
+\openout1 = kursinis.run.xml
+)
+
+Here is how much of LuaTeX's memory you used:
+ 25709 strings out of 494291
+ 125171,1144653 words of node,token memory allocated
+ 707 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 95 glue_spec,
+ 8 attribute_list, 1 write nodes
+   avail lists: 2:306,3:85,4:44,5:169,6:26,7:1228,8:1,9:159,10:34,11:196
+ 29155 multiletter control sequences out of 65536+200000
+ 68 fonts using 9937719 bytes
+ 67i,12n,99p,904b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
+<c:/users/max/appdata/local/programs/miktex 2.9/fonts/opentype/public/tex-gyre/t
+exgyretermes-bold.otf><c:/users/max/appdata/local/programs/miktex 2.9/fonts/open
+type/public/tex-gyre/texgyretermes-regular.otf>
+Output written on kursinis.pdf (17 pages, 2664142 bytes).
+
+PDF statistics: 102 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
